@@ -1,0 +1,46 @@
+h1 {
+    color : rgb(219, 88, 88);
+    /*background-color: grey;*/
+    text-align:justify;
+}
+
+body{
+    background-color:aliceblue;  
+}
+
+.menu{
+    text-align: right;
+    margin-right:30px;
+    margin-top:10px;  
+}
+
+.menu a{
+    margin-left:10px;
+}
+
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;            
+}
+
+h2,p{
+    text-align: center;
+}
+
+.item img{
+    border:solid;
+}
+
